@@ -1,0 +1,12 @@
+.dataTables_filter{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dataTables_filter label{
+  margin-bottom: 0;
+}
+.dataTables_info{
+  float: left;
+  padding-top: 0!important;
+}
